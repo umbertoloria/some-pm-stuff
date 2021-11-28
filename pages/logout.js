@@ -4,7 +4,7 @@ export default function Home() {
 	return <>
 		<CustomerLayout/>
 		<p>
-			Hello, world!
+			Logout
 		</p>
 	</>
 }
