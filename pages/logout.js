@@ -1,10 +1,10 @@
-import CustomerLayout from '../layouts/CustomerLayout'
+import CustomerLayout from '../layouts/CustomerLayout';
 
 export default function Home() {
-	return <>
-		<CustomerLayout/>
-		<p>
-			Logout
-		</p>
-	</>
+  return <>
+    <CustomerLayout/>
+    <p>
+      Logout
+    </p>
+  </>;
 }
